@@ -2,10 +2,12 @@ footer {
   font-size: 85%; }
 
 body {
+  font-family: 'Crimson Pro', serif;
+  
   background-image: url(https://lh3.googleusercontent.com/kjJNehIUbeLo8J1t07rq9NuEF1NYEczP-rr8W7tbj-eXXHPWAl_lfVraNkAbfwvDnVEKrmahqblbpfeQzul9pZ3p1Bpa8P_ECb5v2XGNtQYtY3fK5SoiLnNM1TqgTmxcjfvmXO87h0iXWr5gBMYEhiTdVn2YgTwwvnko-N1sk5rMYEERIZZqEd5cZ4-lyalMAHKpI78vj4Ql716Yn1z5LSsr8RE-8mRxNyBKft-M3VlM32DPhuIkiUU2FZUm1ZUClyBmjISPcOBKgTscEe93e8-dh1ZLbsYIyR2y4i8iYcnmg_ERbb-5x8PrDj54Qg5ti_y1p4BHx41dxcbX7UeUfsJN4et4m2C2HIfI-2dZ9fywuQv0NarLAaPYu9D13bEMdkJral1AWLK6lM1aA1qyUULdPTba3Z_1Q2U1TO4VR34lP659_HimzINS8bVJZnC197SH4wTCsgclDMjFJEsj0xplkGDBgZU_Idv4SH9BqNhvroH1oPnpnPbqi8x_lTKAEVM3u7OL6w-fSBRb-ns9SZhGxAYucH1aihIPnAmmUw-b_5Uhhy_WWVi3L4GFK-YBzhykQ_uEDIqCjmhhOFgFgxMsPblYSrmjYrWlMCUblN0BLHXMZNcnpQLEOeFyhWPiPpphajXAIvuUq5UHdXDFzMufcDU-TD0Z-5wxg8182B7tO33bFnD7aOWo9M_qbLczjY2Cl57xQC9y72zYtRPslS8Qcw=w876-h657-no?authuser=0);
   background-repeat: no-repeat;
   background-position: -250px -50px;
-  background-attachment: fixed;
+  background-attachment: unset;
   color: rgb(8, 8, 8);
 }
 
@@ -15,5 +17,7 @@ header {
 }
 
 .articulo {
-  margin: 500px 0px 0px 0px;
+  margin: 500px 20px 20px 20px;
 }
+
+
