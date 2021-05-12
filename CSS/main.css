@@ -11,6 +11,9 @@ body {
 
 header {
   font-size: larger;
-  
+  color: black;
 }
 
+.articulo {
+  margin: 500px 0px 0px 0px;
+}
