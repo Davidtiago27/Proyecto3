@@ -4,7 +4,7 @@ footer {
 body {
   font-family: 'Crimson Pro', serif;
   
-  background-image: url(https://lh3.googleusercontent.com/-aZuTLY3j1vTgvNYJr0XUHSbuzDC1ijCE_eZd7aZSE4zmgi8FzTuve_aEKEQJBZJXAf2BtOSoA1icX9qQ94_I0UcPe8VBwGnyO_sEDLS958YjQqlp0aK32i-J-Omcq4TfuEvLgno6-yM1nF9UfQrkIuhxeIpVPd2_seogkISCQUcyz7GpUW5uLhYHTZJzBVovMm-GXcOZ6Nkl9_gtfBuLjrGHMWoSPTRY1jk3vmaVLWPGLQIj2H39q2ngZC2zYxGOeXy5QKMf7PDu4by7XVIjSSvAJCxuXnXpZdLxtpZyWKgxxzZ9uqEaO_0tAoKIrXR3dvnSNvARE6T3qqj4H3_4-V_uktWcFWSwjAeV4rtaramzzkO_0hRHGqCeQPXNDnjffve4yw96ff9DlDp-7dLig30aIifKXNJhQrPTxf2r6Ml_gxRDQVfxvqjpBU4xhKa122R-xItzQ1PlzChnzDK8-m3vjS4H0ntp_dLVVk04DlupuAIiyQvwwmNp0ZEfsrQnBW9gsUCtlyuz4LebjGY5O7lX0Yy6MbIEtYK6fa1ifXJCzHLgGKIqGjLP8Y5d7q9LrExte7zEOiwTTIDTkoNZeKe5IxxlBrEYVspH8xDChAafdSMBtjN0zq1lRTAhKPcgjVFTtEfEJgcX93NmTnBeKN0uu9mG-Emlu2lHnJEZpLtvSQ7x-auARp61NEmbx_AvgjlVTiqldlB7fBNU_NQm3dp=w450-h600-no?authuser=0);
+  background-image: url(https://images.unsplash.com/photo-1547566420-c0036b49cb8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTN8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60);
   background-repeat: no-repeat;
   
   background-attachment: unset;
@@ -17,7 +17,7 @@ header {
 }
 
 .articulo1 {
-  margin: 500px 20px 20px 20px;
+  margin: 650px 20px 20px 20px;
 }
 
 .articulo2 {
