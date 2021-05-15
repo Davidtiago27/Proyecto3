@@ -1,0 +1,73 @@
+footer {
+    font-size: 85%; }
+  
+  body {
+    font-family: 'Crimson Pro', serif;
+    
+    background-image: url(https://images.pexels.com/photos/2760519/pexels-photo-2760519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-repeat: no-repeat;
+    
+    background-attachment: unset;
+    color: rgb(8, 8, 8);
+  }
+  
+  header {
+    font-size: larger;
+    color: black;
+  }
+  
+  .articulo1 {
+    margin: 650px 20px 20px 20px;
+  }
+  
+  .articulo2 {
+    margin: 20px 20px 20px 20px;
+  }
+  
+  .articulo3 {
+    margin: 20px 20px 20px 20px;
+  }
+  
+  footer {
+    background-color: #EBEBEB;
+    
+  }
+  
+  .redes {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+  }
+  
+  @media (min-width: 768px) {
+    body {
+      font-family: 'Crimson Pro', serif;
+      
+      background-image: url(https://wallpaperaccess.com/full/129471.jpg);
+      background-repeat: no-repeat;
+      background-size: 100%;
+      background-attachment: unset;
+      background-position: 0px -200px;
+      color: rgb(8, 8, 8);
+    }
+  
+    .articulos {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-rows: auto auto ;
+      margin: 500px 20px 20px 20px;
+      justify-content: space-around;
+    }
+  
+    .articulo1 {
+      margin: 0px 20px 20px 20px;
+    } 
+  
+    .redes {
+      padding: 20px 400px 20px 400px;
+      display: flex;
+      justify-content: space-evenly
+      
+    }
+  }
+  
