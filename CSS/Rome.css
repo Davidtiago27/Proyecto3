@@ -6,8 +6,8 @@ footer {
     
     background-image: url(https://images.pexels.com/photos/2760519/pexels-photo-2760519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
     background-repeat: no-repeat;
-    
     background-attachment: unset;
+    background-size: 400px 750px;
     color: rgb(8, 8, 8);
   }
   
