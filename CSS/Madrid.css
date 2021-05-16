@@ -43,12 +43,12 @@ footer {
     body {
       font-family: 'Crimson Pro', serif;
       
-      background-image: url(https://lh3.googleusercontent.com/vncPznAhvG-Ay6-9ccmeTJiH3mqxh8lcvE3NGB198c0brq8dS5rGE1GiKhlMdM9J2_OCtqk0y5vxqVtBhPoiGKWqG3XgheQCVsnLWyjrxFxSfaNXIrJHCkc3MzKRlyAw4WsfPNua88ufBB7XGBpYMfFiIVuoZAzHS_tA0h5t7gdCkpnl1SXsuNbzDXoPxLpGxoNer6muTAqyyiG_k9_1w4xOYFLDSz_rgAQcmRI-2RfqatgJEW4TsX_DwXkvX9fSlIl6N4L7gtO1m6F2Q8YP0El0Z8hoPB3hCDoIj66EFB2rgxVhJRGn74CaMEviZCi4tthnUthDzuUHduv-h51MnEAchAR73v1CqWmK7oRKL52BBfSEumBSP2BOU49zXwnBv7mTwYUzPMwhH0jRM28espr-W8u_TdApJOY7PPXvx5RdYKezgy8pD4z5me0E8fu10S3m0dmg4jgtnESyxQFEBkYuZk329uxP9hRKm2Gp9L0lcwwsea4ZW0ikS-N9zpvUtJqdbHtpjQvCW9RCYQ_ROXougO7wv4ZlTCbZC-HHK0ML6vKOCPSCMwfom0DZEgEtb3jZW-DqAm61nAqqdsFwQQVRP32DWDchwsF4vRaYc6acVb8sqI1u1czx0ChmQhDRyF5rYUiT79uVnDZ8QJVZLMldfwbfl9p8SoOXlRpGit8dtGl9ClZS8VP1GkgEGnlFAwXE-u4K1e9jfqFcZc-pqQ3c=w876-h657-no?authuser=0);
+      background-image: url(https://static.neweuropetours.eu/wp-content/uploads/2018/10/madrid-plaza-mayor-1600x900.jpg);
       
       background-repeat: no-repeat;
-      background-size: 100%;
+      background-size: auto;
       background-attachment: unset;
-      background-position: 0px -200px;
+      background-position: -200px -300px;
       color: rgb(8, 8, 8);
     }
   
@@ -61,7 +61,7 @@ footer {
     }
   
     .articulo1 {
-      margin: 0px 20px 20px 20px;
+      margin: 20px 20px 20px 20px;
     } 
   
     .redes {
